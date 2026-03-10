@@ -1,6 +1,6 @@
 # Microbial systems biology datasets and databases for machine learning
 
-**The intersection of microbial systems biology and machine learning has generated a rich ecosystem of publicly available datasets and databases**, spanning genomics, transcriptomics, proteomics, metabolomics, and metagenomics. These resources enable ML/DL tasks from antimicrobial resistance prediction to metabolic pathway reconstruction. Below are two comprehensive reference tables: the first catalogs specific ML-ready datasets with download links, while the second maps major databases to their ML/DL applications. Verifying Urls as time goes.
+**The intersection of microbial systems biology and machine learning has generated a rich ecosystem of publicly available datasets and databases**, spanning genomics, transcriptomics, proteomics, metabolomics, and metagenomics. These resources enable ML/DL tasks from antimicrobial resistance prediction to metabolic pathway reconstruction. Below are two comprehensive reference tables: the first catalogs specific ML-ready datasets with download links, while the second maps major databases to their ML/DL applications. Adding more and verifying Urls as time goes.
 
 ---
 
